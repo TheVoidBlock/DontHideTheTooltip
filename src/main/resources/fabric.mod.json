@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "donthidethetooltip",
+  "version": "${version}",
+  "name": "DontHideTheTooltip",
+  "description": "Shows the items tooltips even when you're holding another item",
+  "authors": [
+    "TheVoidBlock"
+  ],
+  "contact": {
+    "repo": "https://github.com/void/DontHideTheTooltip"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/donthidethetooltip/icon.png",
+  "environment": "client",
+  "mixins": [
+    "donthidethetooltip.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
