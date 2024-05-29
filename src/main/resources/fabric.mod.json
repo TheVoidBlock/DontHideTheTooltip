@@ -3,7 +3,7 @@
   "id": "donthidethetooltip",
   "version": "${version}",
   "name": "DontHideTheTooltip",
-  "description": "Shows the items tooltips even when you're holding another item",
+  "description": "Shows items tooltips even when you're holding another item",
   "authors": [
     "TheVoidBlock"
   ],
