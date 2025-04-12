@@ -1,4 +1,4 @@
-package com.thevoidblock.donthidethetooltip.mixin;
+package io.github.thevoidblock.donthidethetooltip.mixin;
 
 import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import net.minecraft.client.gui.screen.ingame.HandledScreen;
